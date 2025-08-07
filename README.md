@@ -1,8 +1,6 @@
 Hi 👋 My name is Radu Mihai Nicolae
 ===================================
 
-Junior Web Developer
---------------------
 
 I am a passionate and motivated Junior Web Developer with a strong foundation in front-end development. I have hands-on experience in creating responsive and user-friendly websites using HTML, CSS, and JavaScript. I am constantly working on improving my skills and currently expanding my expertise by learning React to build more dynamic and scalable applications. I enjoy problem-solving, continuous learning and turning creative ideas into functional, clean code. My goal is to contribute to innovative web projects that enhance user experiences and improve functionality.
 
